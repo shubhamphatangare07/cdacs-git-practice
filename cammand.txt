@@ -17,3 +17,12 @@ git config --global user.email "Shubhamphatangare508@gmail.com"
  git diff
 
  git merge 
+
+
+ git branch <branch name> => to add a branch
+
+ git checkout <br name> => to change your branch from one to another
+
+ git branch  => to display all branches
+
+ git merge <br name >=> you can merge files only from master branch 
